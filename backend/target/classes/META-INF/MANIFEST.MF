@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Dell
+Build-Jdk: 18.0.2.1
+Implementation-Title: Ecommerce-Backend
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: crm
+Implementation-URL: https://spring.io/projects/spring-boot/Ecommerce-Bac
+ kend
+Created-By: Maven Integration for Eclipse
+
